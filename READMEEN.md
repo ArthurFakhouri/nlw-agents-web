@@ -57,7 +57,6 @@ The project was developed using the following technologies:
 - [<img alt="" src="https://www.typescriptlang.org/favicon.ico" width="16px" /> Typescript](https://www.typescriptlang.org)
 - [<img alt="" src="https://lucide.dev/og.png" width="16px" /> Lucide React](https://lucide.dev)
 - [<img alt="" src="https://zod.dev/icon.png?39fe259ddd7f4224" width="16px" /> Zod](https://zod.dev/)
-- [<img alt="" src="https://zustand-demo.pmnd.rs/favicon.ico" width="16px" /> Zustand](https://zustand-demo.pmnd.rs/)
 
 ## :memo: License
 This project is licensed under the MIT License. See [LICENSE] for details.
