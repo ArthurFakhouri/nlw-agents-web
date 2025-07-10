@@ -37,6 +37,10 @@ Go to the folder where you cloned the project, open the terminal and run the com
 ## 📽️ Demo
 
 
+https://github.com/user-attachments/assets/ea189c09-7811-4255-b771-08573f321a52
+
+
+
 
 
 
